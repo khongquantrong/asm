@@ -1,0 +1,15 @@
+{
+    "name": "ltc/asm",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "khongquantrong",
+            "email": "105421649+khongquantrong@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
